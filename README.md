@@ -1,4 +1,5 @@
 # bashrc
+!(/home/adel/Pictures/bashrc.png)
 my bashrc configuration
 
 ``` bash
