@@ -131,3 +131,5 @@ export PATH="$PNPM_HOME:$PATH"
 ___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
 
 ```
+
+i use [oh my posh](https://ohmyposh.dev) and [Color Scheme for Gnome Terminal](https://gogh-co.github.io/Gogh)
