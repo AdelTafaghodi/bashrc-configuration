@@ -1,5 +1,6 @@
 # bashrc
 ![](bashrc.png)
+
 my bashrc configuration
 
 ``` bash
